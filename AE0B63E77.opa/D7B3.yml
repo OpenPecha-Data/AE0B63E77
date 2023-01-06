@@ -1,0 +1,27 @@
+segment_sources:
+  I8D68F92F:
+    type: origin_type
+    relation: translation
+    base: DF48
+    lang: en
+  I31338CC4:
+    type: origin_type
+    relation: translation
+    base: '7440'
+    lang: bo
+segment_pairs:
+  0a3d84fce77a4d1b8731934173dc0f2f:
+    I8D68F92F: e5e820d82c694246a1b4fab5595d9498
+    I31338CC4: 263b81d8b73f4a8e808f9f6123e15e6b
+  b0762c1b36d14745a9863663eca4ed3f:
+    I8D68F92F: 72f05335c7964985804e9b08d22c8145
+    I31338CC4: 02b767ac7ccd4d60abe94ed70fd4cf5b
+  cf48f2623f6940bab0f6083cc5703f23:
+    I8D68F92F: ed3cde3ad3ff447387be9ee0018aaa5a
+    I31338CC4: 152370ad09284ad58ea5a0e28a581291
+  64d004ec95af4baebd0ab031c79286a8:
+    I8D68F92F: 457c51ea980744b58ad815809f478907
+    I31338CC4: ddcc887a06ca4bcd84b6957126191726
+  98ffb5914cd54ef4bf3b453b39b146c0:
+    I8D68F92F: cac2ae2ecc664ac0b13972fe1141d442
+    I31338CC4: 48864b3c72604725b2954c283644c59f
